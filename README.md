@@ -27,6 +27,9 @@ You can change the symbols in [create_maze](maze.py)
 
 Use the create_maze function built on top of [utils/maze/](utils/maze/) in [maze.py](maze.py) to customize the data generation.
 
+## PR your model
+Trained your model? Why to keep your hardwork locally! PR your model [here](models/). Read [CONTRIBUTING.md](CONTRIBUTING.md) for sure first.
+
 ## Dataset references
 
 If you have created your dataset you can save other's time by referencing to it on [DATASETS.md](DATASETS.md). Make sure to go through [CONTRIBUTING.md](CONTRIBUTING.md) first.
